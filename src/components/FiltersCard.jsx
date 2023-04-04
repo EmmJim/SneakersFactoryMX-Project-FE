@@ -45,41 +45,7 @@ const FiltersCard = () => {
                         
                     </ul>
                 </div>
-                <div className='mt-5'>
-                    <p className='font-bold mb-3'>Género</p>
-                    <ul>
-                        <li className='flex space-x-3'>
-                            <input type="checkbox" name="hombre" id="hombre" />
-                            <p>Hombre</p>
-                        </li>
-                        <li className='flex space-x-3'>
-                            <input type="checkbox" name="mujer" id="mujer" />
-                            <p>Mujer</p>
-                        </li>
-                        <li className='flex space-x-3'>
-                            <input type="checkbox" name="unisex" id="unisex" />
-                            <p>Unisex</p>
-                        </li>
-                        
-                    </ul>
-                </div>
-                <div className='mt-5'>
-                    <p className='font-bold mb-3'>Género</p>
-                    <ul>
-                        <li className='flex space-x-3'>
-                            <input type="checkbox" name="hombre" id="hombre" />
-                            <p>Hombre</p>
-                        </li>
-                        <li className='flex space-x-3'>
-                            <input type="checkbox" name="mujer" id="mujer" />
-                            <p>Mujer</p>
-                        </li>
-                        <li className='flex space-x-3'>
-                            <input type="checkbox" name="unisex" id="unisex" />
-                            <p>Unisex</p>
-                        </li>
-                    </ul>
-                </div>
+                
             </div>
         </aside>
     )
